@@ -1,5 +1,4 @@
 .idea
-*.doc*
 **/out
 *.iml
 /gen
